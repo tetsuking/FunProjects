@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+говно ебаное
+
 import base_class
 import requests
 import lxml.html
